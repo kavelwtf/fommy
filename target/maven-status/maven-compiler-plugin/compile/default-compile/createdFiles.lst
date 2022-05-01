@@ -1,0 +1,7 @@
+pl\kavel\waluta\handler\PlayerMoveHandler.class
+pl\kavel\waluta\BukkitMain.class
+pl\kavel\waluta\handler\PlayerJoinHandler.class
+pl\kavel\waluta\service\UserService.class
+pl\kavel\waluta\user\impl\UserImpl.class
+pl\kavel\waluta\user\User.class
+pl\kavel\waluta\utilities\ChatUtilities.class

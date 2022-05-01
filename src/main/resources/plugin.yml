@@ -1,0 +1,7 @@
+name: ClearMC_Tokens
+version: '${project.version}'
+main: pl.kavel.waluta.BukkitMain
+api-version: 1.17
+authors: [ kavel ]
+description: Plugin na walute (tokeny)!
+website: kavel.cf
